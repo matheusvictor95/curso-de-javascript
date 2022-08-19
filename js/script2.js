@@ -1,0 +1,1 @@
+console.log("a mesma coisa do outro só que no final")
